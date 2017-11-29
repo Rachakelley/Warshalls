@@ -36,8 +36,7 @@ public class Driver {
 	    	}
 	}
 
-	public static void display(int[][] graph)
-	{
+	public static void display(int[][] graph) {
 		int n = graph.length;
 		System.out.print(" ");
 	    	for (int col = 0; col < n; col++)
